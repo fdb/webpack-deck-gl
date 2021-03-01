@@ -4,10 +4,13 @@ Simple demonstration of using [Webpack](https://webpack.js.org/) with [Deck.gl](
 
 To run:
 
-`npm install
+```bash
+npm install
 npm run dev
-`
+```
 
 To build:
 
-`npm run build`
+```bash
+npm run build
+```
